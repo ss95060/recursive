@@ -2,5 +2,7 @@ version: 1.2
 tools:
    - subclass: cwl
      primaryDescriptorPath: /x/x.cwl
+     name: x
    - subclass: cwl
      primaryDescriptorPath: /z/z.cwl
+     name: z
